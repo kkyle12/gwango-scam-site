@@ -1,1 +1,0 @@
-# gwango-scam-site
