@@ -1,4 +1,4 @@
-total_visit,monthly_visit,t_m,monthly_u visit,mu_m,desktop_rate(%),visit_duration,bounce rate(%),top_country_1,top_country_2,top_country_3,direct,ref,soc,org,dis_ad,ad
+total_visit,monthly_visit,t_m,monthly_u visit,mu_m,desktop_rate,visit_duration,bounce rate,top_country_1,top_country_2,top_country_3,direct,ref,soc,org,dis_ad,ad
 5700000,5700000,1,4500000,79,17.9,51,72.9,14.6,8.9,8.8,37,18.9,18.4,25.3,0,1
 73971,73971,1,63686,86,14.9,4,87.7,46.9,12.3,12.2,37,54.1,2.9,5.6,0,1
 477075,477075,1,346174,73,14.9,49,79.8,13.6,12.8,6.7,36.2,50.2,5.5,7.9,0,1
